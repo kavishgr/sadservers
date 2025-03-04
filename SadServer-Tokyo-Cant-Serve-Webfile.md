@@ -266,6 +266,3 @@ WantedBy=sockets.target
 
 > [!NOTE]
 > From `systemd` docs: If the address string is a single number, it is read as port number to listen on via IPv6. Address specified as IPv6, might still make the service available via IPv4 too.
-
-> To live is the rarest thing in the world. Most people exist, that is all. <br> 
-> -- <cite>Oscar Wilde</cite>
